@@ -80,6 +80,12 @@
     </a>
     <br>PostgreSQL
   </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/SQLite.svg" width="48" height="48" alt="SQLite" />
+      </a>
+      <br>SQLite
+    </td>
   </tr>
 </table>
 <table>
