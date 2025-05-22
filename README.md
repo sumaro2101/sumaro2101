@@ -70,6 +70,16 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
+        <img src="./img/Redis.svg" width="48" height="48" alt="Redis" />
+      </a>
+      <br>Redis
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
         <img src="./img/CSharp.svg" width="48" height="48" alt="C#" />
       </a>
       <br>C#
