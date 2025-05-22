@@ -4,7 +4,7 @@
 - :toolbox: I`m not afraid to learn something new.
 - :brain: Knowledge of Python at a very higt level.
 - :israel: I live in Israel.
-- :e-mail: My contact **yukiu217@gmail.com**
+- :e-mail: My contact **<yukiu217@gmail.com>**
 - :iphone: Telegram **[Telegram]**
 
 <br>
@@ -26,6 +26,12 @@
         <img src="./img/fastapi-1.svg" width="48" height="48" alt="FastAPI" />
       </a>
       <br>FastAPI
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/pydantic.svg" width="48" height="48" alt="Pydantic" />
+      </a>
+      <br>Pydantic
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -63,4 +69,3 @@
 
 <!-- links -->
 [Telegram]: https://t.me/alex_pavlov_1998 "My telegram"
-[GitHub]: https://github.com/Alexsander-Pavlov "My GitHub"
