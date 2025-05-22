@@ -74,6 +74,12 @@
       </a>
       <br>C#
     </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/Dotnet.svg" width="48" height="48" alt=".NET" />
+      </a>
+      <br>.NET
+    </td>
   </tr>
 </table>
 
