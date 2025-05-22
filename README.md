@@ -74,6 +74,12 @@
       </a>
       <br>Redis
     </td>
+  <td align="center" width="96">
+    <a href="#macropower-tech">
+      <img src="./img/PostgreSQL.svg" width="48" height="48" alt="PostgreSQL" />
+    </a>
+    <br>PostgreSQL
+  </td>
   </tr>
 </table>
 <table>
