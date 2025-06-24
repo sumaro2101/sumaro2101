@@ -2,10 +2,10 @@
 <h3 align="left">I love coding in Python and C#</h3>
 
 - :toolbox: I`m not afraid to learn something new.
-- :brain: Knowledge of Python at a very higt level.
-- :israel: I live in Israel.
-- :e-mail: My contact **<yukiu217@gmail.com>**
-- :iphone: Telegram **[Telegram]**
+- :brain: Knowledge of Python at a very hight level.
+- 🇮🇱 I live in Israel.
+- 📧 My contact **<yukiu217@gmail.com>**
+- 📱 Telegram **[Telegram][Telegram]**
 
 <br>
 
@@ -106,4 +106,5 @@
 </table>
 
 <!-- links -->
-[Telegram]: https://t.me/alex_pavlov_1998 "My telegram"
+
+[Telegram]: https://t.me/alex_pavlov_1998
